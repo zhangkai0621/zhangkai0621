@@ -5,9 +5,9 @@
 
 ### My Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=cocos-2048&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=cocos-2048&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=flutter&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
