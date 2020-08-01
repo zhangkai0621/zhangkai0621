@@ -5,14 +5,13 @@
 
 ### My Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit&theme=vue)](https://github.com/anuraghazra/github-readme-stats)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=cocos-2048&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit&theme=vue)](https://github.com/zhangkai0621/vue-math-edit)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=cocos-2048&theme=vue)](https://github.com/zhangkai0621/cocos-2048)
 
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=flutter&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=flutter&theme=vue)](https://github.com/zhangkai0621/flutter)
 
 ### Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkai0621&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkai0621&theme=onedark)](https://github.com/zhangkai0621)
 
 <!--
 **zhangkai0621/zhangkai0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
