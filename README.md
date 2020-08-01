@@ -4,6 +4,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkai0621)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zhangkai0621/zhangkai0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
