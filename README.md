@@ -1,4 +1,4 @@
-## Welcome,I'm ZhangKai! 👋
+## Hi there,I'm ZhangKai! 👋
 
 ### My Github State
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangkai0621&count_private=true&theme=onedark)
