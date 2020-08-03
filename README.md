@@ -1,7 +1,7 @@
 ## Hi there,I'm ZhangKai. 👋
 
 ### My Blog
-[简书-大西瓜的凯凯](https://www.jianshu.com/u/131b205e6fbd)
+[zhangkai's Blog](https://zhangkai0621.github.io/blog/)
 
 ### My Github State
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangkai0621&count_private=true&theme=onedark)
