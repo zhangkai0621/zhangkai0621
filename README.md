@@ -11,7 +11,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=vue-math-edit&theme=vue)](https://github.com/zhangkai0621/vue-math-edit)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=cocos-2048&theme=vue)](https://github.com/zhangkai0621/cocos-2048)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=flutter&theme=vue)](https://github.com/zhangkai0621/blog)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=Josephus-problem&theme=vue)](https://github.com/zhangkai0621/Josephus-problem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=blog&theme=vue)](https://github.com/zhangkai0621/blog)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zhangkai0621&repo=Josephus-problem&theme=vue)](https://github.com/zhangkai0621/Josephus-problem)
 
 ### Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangkai0621&theme=onedark)](https://github.com/zhangkai0621)
