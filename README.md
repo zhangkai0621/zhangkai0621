@@ -1,7 +1,7 @@
 ## Hi there,I'm ZhangKai. 👋
 
 ### My Blog
-[zhangkai's Blog](https://zhangkai0621.github.io/blog/)
+[zhangkai's Blog](http://www.zhangkai.show)
 
 ### My Github State
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangkai0621&count_private=true&theme=onedark)
